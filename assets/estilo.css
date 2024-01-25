@@ -89,7 +89,7 @@ a:hover {
 .input-field {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 28%;
     gap: 20px; 
 }
 
