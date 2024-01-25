@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(1b6782a413b2f6bd68d330365ecd0a0a.jpg);   
+    background-image: url(background-health.jpg);   
     font-family: 'Poppins', sans-serif;
 }
 
@@ -51,7 +51,7 @@ a {
     border: 3px solid black;
     padding: 10px;
     font-size: 17px;
-    background-image: url(61792.jpg);
+    background-color: #a4d5db;
 }
 
 a:hover {
