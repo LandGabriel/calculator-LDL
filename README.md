@@ -1,5 +1,5 @@
 
-![Logo do projeto](https://github.com/LandGabriel/calculator-LDL/blob/main/assets/background-health.jpg)
+![Logo do projeto](https://github.com/LandGabriel/calculator-LDL/blob/main/assets/project-image.png)
 
 # Calculadadora de LDL
 :mag_right: [Veja o projeto](https://landgabriel.github.io/calculator-LDL/)
