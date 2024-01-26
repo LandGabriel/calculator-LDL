@@ -1,5 +1,5 @@
 
-![Logo do projeto]()
+![Logo do projeto](https://github.com/LandGabriel/calculator-LDL/blob/main/assets/background-health.jpg)
 
 # Calculadadora de LDL
 :mag_right: [Veja o projeto](https://landgabriel.github.io/calculator-LDL/)
