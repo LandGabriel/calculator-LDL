@@ -157,3 +157,33 @@ footer {
     padding: 10px;
     font-size: 10px;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        background-image: none; /* Remove a imagem de fundo em telas menores se necessário */
+    }
+
+    .tittle {
+        width: 100%; /* Ocupa toda a largura da tela */
+        top: 0;
+        left: 0;
+        border-radius: 0; /* Remove borda arredondada */
+    }
+
+    nav li {
+        margin-right: 15px; /* Reduz a margem entre os itens de navegação */
+    }
+
+    .items {
+        font-size: 16px; /* Reduz o tamanho do texto na barra de navegação */
+    }
+
+    #calculator {
+        max-width: 100%; /* Ajusta a largura da calculadora para ocupar toda a largura da tela */
+        margin-left: 0 !important; /* Remove a margem esquerda */
+    }
+
+    .input-field {
+        width: 100%; /* Ocupa toda a largura da calculadora */
+    }
+}
